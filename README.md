@@ -1,36 +1,40 @@
 🏓 PING PONG BALL GAME
-🎮 A fun, classic Pong game powered by Python Turtle graphics!
+
+
+      🎮 A fun, classic Pong game powered by Python Turtle graphics!
 
 🎨 Features
-🚀 Two-player real-time gameplay (left vs. right paddle)
 
-🌈 Vivid graphics using the Turtle module
+       🚀 Two-player real-time gameplay (left vs. right paddle)
 
-🏆 Live score updates
+      🌈 Vivid graphics using the Turtle module
 
-🕹 Smooth paddle & ball movement
 
-⌨️ Easy keyboard controls
+     🏆 Live score updates
+
+     🕹 Smooth paddle & ball movement
+
+     ⌨️ Easy keyboard controls
 
 🎮 Controls
-____________________________
-Player|	Up Key	   Down Key |
-____________________________
-Left  | W       	   S      |
-Right	| 1	           2      |
-____________________________|
 
-🗂️ File Structure:
-ping_pong_ball_game/
-│
-├── left.py      # Left paddle logic
-├── right.py     # Right paddle logic
-├── ball.py      # Ball movement and bounce logic
-├── score.py     # Score display
-├── main.py      # Game loop and setup
-└── README.md    # This file!
+        For left player---- up(w) and down(s)
 
- 
+
+       for right player ----up(1) and down(2)
+
+
+
+
+
+
+🎮Game prevew:
+
+
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Somnath-2024-40/ping_pong_ball_game/master/Screenshot%202025-08-04%20154853.png" alt="Game Preview" width="400"/>
+</p>
 
 
 
